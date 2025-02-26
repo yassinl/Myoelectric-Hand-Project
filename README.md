@@ -1,28 +1,45 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
+Yassin Lahrime, Computer Engineering Student (2024)
+yassinl@vt.edu
 
 ## Mentor
-MENTOR NAME HERE
+
+Rusty, Stewart 
 
 ## Current Status
-IN PROGRESS
+IN PROGRESS 
+(Research/Early Prototyping)
 
 ## Project Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
+Designing and Building a Low Cost Myoelectric Hand. 
+This Electronic Prosthetic Device is aimed to provide an affordable solution for amputees. Hand interfaces non-invasively with EMG probes on the forearm flexor muscle. Machine learning models will be implemented to increase reliability since EMG signals on their own tend to be unreliable.  
 
 ## Educational Value Added
 
-Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu velit. Suspendisse vel dictum lacus. Sed facilisis luctus consequat. Donec vulputate eu dolor in molestie. Maecenas pretium sem non tellus facilisis sollicitudin id ut nulla. In condimentum orci nisi, sagittis facilisis neque convallis eget. Duis ut sem cursus, placerat mi pellentesque, mollis eros. Integer efficitur blandit elit, sed egestas sem porta in. Mauris euismod nulla ac tellus tempus, eu egestas dui molestie. Proin faucibus enim quis consequat sodales. Pellentesque eleifend blandit augue et laoreet. Phasellus vel posuere nisi, ac aliquam arcu.
+This project allows for me to develop my problem solving skills in developing a practical client facing medical device. By the end of the project I will have developed a deepened understanding and practical understanding of signal acquisition, processing, Machine Learning, Motor Drivers, Mechanical Design, and Circuit Fundamentals.  
 
 ## Tasks
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+choosing what parts are going to drive the hand 
+- motors we're going to use to drive the fingers and wrist 
+- motor drivers we're going to use  
+- PCB Design for creating compact circuits for power and signal distribution
+- creating a reliable solution for acquiring and interpreting EMG Signals 
+- Designing the machine learning model thats going to increase the reliability of the machine learning model
 
 ## Design Decisions
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+- Motors 
+We spent a lot of time prototyping with servo motors but we realized early on that we weren't getting enough torque out of them.
+We're going to opt for more powerful micro dc motors to handle the demands of real world use--these are slightly more difficult
+to interface with but provide better torque to volume ratio. 
+
+- Joint Materials
+So far the fingers are held together by a combination of fishing line and thinely printed TPU
+likely this won't look exactly like the final design these materials aren't incredibly sustainable and 
+we want our hand to be wearable for longer than a year despite the low budget
+
 
 ## Design Misc
 
@@ -30,20 +47,25 @@ Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu vel
 
 ## Steps for Documenting Your Design Process
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+So far my team uploads their documentation and collaborations via microsoft teams. We also plan meetings on groupme. 
 
 ## BOM + Component Cost
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+- Micro DC Motors  
+- TPU + PETG Filament
+- EMG Sensors 
+- Conductive Gel
+- Fishing Line 
+
+
+
 
 ## Timeline
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+This is a several semester long project--Not something that one person could get done on their own own in a short amount of time. 
+My hope is that with the help of my team and the Amp Lab we can have a working prototype by the end of semester and a more polished version by the end of next semester.
 
 ## Useful Links
 
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
 
-## Log
-
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
