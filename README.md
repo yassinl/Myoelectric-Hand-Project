@@ -2,6 +2,9 @@
 Yassin Lahrime, Computer Engineering Student (2024)
 yassinl@vt.edu
 
+# Advisor #
+Dr Robert T. Stone (BME)
+
 ## Mentor
 
 Rusty, Stewart 
@@ -40,30 +43,40 @@ So far the fingers are held together by a combination of fishing line and thinel
 likely this won't look exactly like the final design these materials aren't incredibly sustainable and 
 we want our hand to be wearable for longer than a year despite the low budget
 
-
-## Design Misc
-
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
-
 ## Steps for Documenting Your Design Process
 
-So far my team uploads their documentation and collaborations via microsoft teams. We also plan meetings on groupme. 
+So far my team uploads their documentation and collaborations via microsoft teams. 
+We also plan meetings on groupme. 
+- so far I keep notes accross a personal github repository
+- as I get further in the design proces I'll publish more refined documentation including:
+- kicad schematics
+- engineering notebooks 
+- technical drawings
 
-## BOM + Component Cost
+## BOM + Component Cost (<$200)
 
-- Micro DC Motors  
-- TPU + PETG Filament
-- EMG Sensors 
-- Conductive Gel
-- Fishing Line 
+- Micro DC Motors x 5 (~$35 total, $7 each)
+- Micro DC Motor Drivers x 5 (~$25 total, $5 each)
+- Servo motors x 5 (~$25 total, $5 each)
+- Gravity EMG Sensor x 1 (~$40)
+- Conductive Gel (~$15)
+- Fishing Line 1 spool (~$5)
+- Custom PCBs x 2 ($10 total, $5 each)
 
+Total Estimated Cost: ~$155
 
+note:
+-  the grand majority of the project is funded through SEC
+- AMP lab purchase requests would only be used for supplemental parts orders to
+expedite the prototyping process
 
 
 ## Timeline
 
-This is a several semester long project--Not something that one person could get done on their own own in a short amount of time. 
-My hope is that with the help of my team and the Amp Lab we can have a working prototype by the end of semester and a more polished version by the end of next semester.
+- This is a several semester long project 
+- Not something that one person could get done on their own own in a short amount of time. 
+- with the help of Amp Lab we can have a working prototype by the end of semester and a more polished version by the end of next semester.
+- we are also working to get a client on the project so this can be a senior capstone project
 
 ## Useful Links
 
